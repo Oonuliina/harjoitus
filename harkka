@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Kissojen valtakunta!</title>
+    </head>
+    <body>
 
+    <h1>Kissojen valtakunta</h1>
+    
+    <h2>Tietoa kissojen valtakunnasta</h2>
+
+    <p>Kissat ovat valtakuntansa hallitsijoita. 
+Kissojen valtakunnassa ei ole sääntöjä, paitsi yksi. 
+Ruoka pitää syödä loppuun. 
+Jos ruokaa ei syö loppuun, joutuu kuninkaan puhutteluun.
+Kuningas päättää tällöin kissan kohtalosta.
+Se saattaa olla mitä vain ruuan loppuun syömisen ja kuoleman väliltä. </p>
+
+    <h2>Kissanruokaresepti</h2>
+
+    <h3>Nelman lihalautanen</h3>
+
+    <p>1 rkl voita <br>
+600g broilerin suikaleita <br>
+500g kalkkunan suikaleita <br>
+400g pakastelohta <br>
+3 dl kaurahiutaleita <br>
+5 dl vettä </p>
+
+    </body>
+</html>    
