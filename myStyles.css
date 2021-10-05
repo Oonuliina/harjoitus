@@ -1,7 +1,25 @@
 body {background: palevioletred; color: darkslategrey;}
 
-p {color: rgb(53, 192, 211);}
+/* p {color: rgb(53, 192, 211);
+    font-size: 25px;
+    line-height: 50px;}
 
+
+div {
+    background: goldenrod;
+    color: green;
+    border: 2px solid hotpink; }
+*/
 #h2-2 {}
 
 .navi {display:inline;}
+
+div.leipateksti {color: khaki;
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+                border-width: 1px; border-style: dashed; border-color: lightcoral;
+                padding: 2px;
+                padding: 5em;
+                margin-left: 5em;
+                margin-right: 10em;
+                clear: both; }
+                
